@@ -1,2 +1,4 @@
 
 Hi! I'm Bob. Bob likes 330. Bob has guts。Bob loves git.
+Hi! I'm Bob. Bob likes 330.
+
