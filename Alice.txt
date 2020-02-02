@@ -1,10 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 Alice is a girl? Alice likes 330
-=======
 Edit via web.
-<<<<<<< HEAD
->>>>>>> 67dc6ca40da337b67cbc339c4db379230835e5c1
-=======
 Edit via web2 .
->>>>>>> 943a810c39c4ade41f1f4912e249df27ee9e5091
